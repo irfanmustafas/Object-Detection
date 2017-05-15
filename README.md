@@ -25,6 +25,10 @@ Part II: Silence (shush) Detection
 
     Write an OpenCV program that can detect a “shush” expression. (This is when a person requests silence by raising the index finger vertical to the lips.)
     
+*********************************************
+In my project, there are about 80% correctly detecting rate for wink detection, and about 85% correctly detecting rate for slience detection. 
+
+No good results achieved for dark background images.
  
 
 
